@@ -1,0 +1,5 @@
+command to run => 
+gcc -o code_210101110 code_210101110.c 
+sudo ./code_210101110
+
+
